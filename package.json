@@ -1,0 +1,14 @@
+{
+  "name": "sport-circle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sport Circle - sports court booking web app",
+  "main": "server_2.js",
+  "scripts": {
+    "start": "node server_2.js",
+    "build": "echo 'No build step required'"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
