@@ -1,7 +1,13 @@
 # Sport Circle 🏟️
 **ระบบจองสนามกีฬาและบริหารจัดการคอร์ทออนไลน์แบบครบวงจร**
 
-🌐 **Live Demo:** [https://sport-circle-website.onrender.com](https://sport-circle-website.onrender.com)
+🏆 **รางวัลชนะเลิศอันดับ 1 (First Prize Winner)** — งาน **DBI Day 2026** สาขานวัตกรรมธุรกิจดิจิทัล มหาวิทยาลัยแม่โจ้  
+🌐 **Live Demo:** [https://sport-circle-website-yh26.onrender.com](https://sport-circle-website-yh26.onrender.com)
+
+---
+
+## 🏆 รางวัลและความสำเร็จ (Achievements)
+* **รางวัลชนะเลิศอันดับ 1 (🥇 1st Place):** ในการแข่งขันนำเสนอผลงานนวัตกรรมและระบบดิจิทัล งาน **DBI Day 2026**
 
 ---
 
