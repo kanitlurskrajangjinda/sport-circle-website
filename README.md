@@ -8,6 +8,7 @@
 
 ## 🏆 รางวัลและความสำเร็จ (Achievements)
 <img width="828" height="608" alt="4ccb4c4b-25bd-4b4d-8471-8550f4e889f9" src="https://github.com/user-attachments/assets/5569702f-2c6a-4085-b6dd-edb22f0e9ffc" />
+
 * **รางวัลชนะเลิศอันดับ 1 (🥇 1st Place):** ในการแข่งขันนำเสนอผลงานนวัตกรรมและระบบดิจิทัล งาน **DBI Day 2026**
 
 ---
